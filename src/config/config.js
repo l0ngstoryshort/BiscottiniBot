@@ -5,7 +5,7 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey: 'AIzaSyBVWMQz4MItLxGPkqdcH6hHlC5TIv_dHk0',
+    youtubeApiKey: 'AIzaSyBezP1fGOLFAd_jhkPrqWnZY5WxgTfgM-Y',
     mongoUri: 'mongodb+srv://l0ngstoryshort:C4FhlvKx2214qDrZ2@biscottinocluster.ifmyp.mongodb.net/?retryWrites=true&w=majority&appName=BiscottinoCluster',
     spotify: {
         clientId: '72e7a51a27f44e7297e342f4f28bf3f6',
