@@ -2,9 +2,9 @@ require('dotenv').config();
 
 
 module.exports = {
-    token: '',
-    clientId: '1273230302822797312',
-    guildId: '1106591466651922502',
+    token: 'MTI5MTU2NjU1MjY2NzEyNzg0OA.GjKd9y.GfGlwfvOUqXJkk7HTjUdYioWfci5AxcDseM6Xo',
+    clientId: '1291566552667127848',
+    guildId: '931010853002686576',
     youtubeApiKey: 'AIzaSyBezP1fGOLFAd_jhkPrqWnZY5WxgTfgM-Y',
     mongoUri: 'mongodb+srv://l0ngstoryshort:C4FhlvKx2214qDrZ2@biscottinocluster.ifmyp.mongodb.net/?retryWrites=true&w=majority&appName=BiscottinoCluster',
     spotify: {
