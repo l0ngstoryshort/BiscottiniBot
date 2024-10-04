@@ -5,11 +5,11 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey: process.env.YOUTUBE_API_KEY,
+    youtubeApiKey: 'AIzaSyBVWMQz4MItLxGPkqdcH6hHlC5TIv_dHk0',
     mongoUri: 'mongodb+srv://l0ngstoryshort:C4FhlvKx2214qDrZ2@biscottinocluster.ifmyp.mongodb.net/?retryWrites=true&w=majority&appName=BiscottinoCluster',
     spotify: {
-        clientId: process.env.SPOTIFY_CLIENT_ID,
-        clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+        clientId: '72e7a51a27f44e7297e342f4f28bf3f6',
+        clientSecret: 'af3d1bbab7574185835bf7514513340a',
     },
     cookies:{
         domain: ".youtube.com",
