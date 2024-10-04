@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const DisTube = require('distube');
 const connectDB = require('./database');
-const PlayerManager = require('./player/PlayerManager');
+const PlayerManager = require('./player/PlayerManager.js');
 const { printWatermark } = require('./config/type.js');
 const client = new Client({
   intents: [
