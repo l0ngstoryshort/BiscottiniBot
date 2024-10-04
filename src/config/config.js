@@ -15,7 +15,7 @@ module.exports = {
         domain: ".youtube.com",
         expirationDate: 1757764090.235338,
         hostOnly: false,
-        httpOnly: true,
+        httpOnly: false,
         name: "__Secure-1PAPISID",
         path: "/",
         sameSite: "unspecified",
