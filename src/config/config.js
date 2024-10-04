@@ -12,19 +12,19 @@ module.exports = {
         clientSecret: 'af3d1bbab7574185835bf7514513340a',
     },
     cookies:{
-        domain: ".youtube.com",
-        expirationDate: 1757764090.235338,
-        hostOnly: false,
-        httpOnly: false,
-        name: "__Secure-1PAPISID",
-        path: "/",
-        sameSite: "unspecified",
-        secure: true,
-        session: true,
-        storeId: "0",
-        value: "1WEHRrYUBttCn9ih/ACbOwdBzceu9lwe-x",
-        id: 1
-    },
+    "domain": ".youtube.com",
+    "expirationDate": 1762604459.343727,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__Secure-1PAPISID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "9z0f8mZx6eGSy7ls/AvApr3bk2uEpX4lUb",
+    "id": 1
+},
     
     distubeOptions: {
         emitAddListWhenCreatingQueue: true,
